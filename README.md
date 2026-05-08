@@ -1,5 +1,8 @@
 # Homebrew Tap for RegexPilot
 
+
+![RegexPilot](screenshot.png)
+
 ```bash
 brew tap Kristofp/homebrew-regexpilot
 brew install --cask regexpilot
