@@ -1,6 +1,6 @@
 cask "regexpilot" do
-  version "1.0.3"
-  sha256 "732562e3eec5b556d8b9c512871ba3ffb07150d1756f32b62080080abd3ff7fe"
+  version "1.1"
+  sha256 "8ebf9643a971daf275e88a8432017d1147f917de2ea1e0c52636c7ac47ce7a5c"
 
   url "https://pub-013d2816deaa41b0b7403efaa3d9a6e9.r2.dev/RegexPilot-#{version}-universal.dmg",
       verified: "pub-013d2816deaa41b0b7403efaa3d9a6e9.r2.dev/"
