@@ -1,6 +1,6 @@
 cask "regexpilot" do
-  version "1.2"
-  sha256 "36f161d893c8326d4d384cdc04552973aaecfbef6143e9f8eafeac6b56b418d2"
+  version "1.3"
+  sha256 "0da4fc955b74aff16296e066661863a8ab9b5a95644208cfd1ffd38198c72f0f"
 
   # NO `verified:` HERE. Homebrew deprecated the parameter — the default URL
   # verification behaviour replaces it, and a cask that still passes it emits
