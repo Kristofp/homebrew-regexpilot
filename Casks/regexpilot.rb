@@ -1,6 +1,6 @@
 cask "regexpilot" do
-  version "1.4"
-  sha256 "bcf1bfa1c697b9a5f02b89f45f664046afeb8d2cec0b5953b7f6f3b70909bf85"
+  version "1.5"
+  sha256 "9671409247731c61285acaea731582b1f2f5673bb3289e72209d0bae64e0e2c3"
 
   # No `verified:` — Homebrew deprecated it. If you ever re-add and remove it
   # by hand, drop the TRAILING COMMA on the url line with it: Ruby then parses
